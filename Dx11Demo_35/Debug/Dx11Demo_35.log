@@ -1,0 +1,4 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_35\Debug\depth_ps.cso
+  Dx11Demo_35.vcxproj -> C:\Users\Bum\Desktop\Dx11Demo_35\Debug\Dx11Demo_35.exe
