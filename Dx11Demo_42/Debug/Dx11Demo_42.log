@@ -1,0 +1,59 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\depth_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\depth_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\horizontalblur_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\horizontalblur_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\shadow_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\shadow_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\softshadow_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\softshadow_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\texture_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\texture_vs.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\verticalblur_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_42\Debug\verticalblur_vs.cso
+  stdafx.cpp
+  CameraClass.cpp
+  D3DClass.cpp
+  DDSTextureLoader.cpp
+  DepthShaderClass.cpp
+  Dx11Demo_42.cpp
+  GraphicsClass.cpp
+  HorizontalBlurShaderClass.cpp
+  InputClass.cpp
+  LightClass.cpp
+  ModelClass.cpp
+  OrthoWindowClass.cpp
+  PositionClass.cpp
+  RenderTextureClass.cpp
+  ShadowShaderClass.cpp
+  SoftShadowShaderClass.cpp
+  SystemClass.cpp
+  TextureClass.cpp
+  TextureShaderClass.cpp
+  TimerClass.cpp
+  VerticalBlurShaderClass.cpp
+  코드를 생성하고 있습니다...
+  Dx11Demo_42.vcxproj -> C:\Users\Bum\Desktop\Dx11Demo_42\Debug\Dx11Demo_42.exe

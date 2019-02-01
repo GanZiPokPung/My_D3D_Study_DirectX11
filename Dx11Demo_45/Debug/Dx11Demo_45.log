@@ -1,0 +1,24 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_45\Debug\texture_ps.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\Bum\Desktop\Dx11Demo_45\Debug\texture_vs.cso
+  stdafx.cpp
+  BumpMapShaderClass.cpp
+  BumpModelClass.cpp
+  CameraClass.cpp
+  D3DClass.cpp
+  DDSTextureLoader.cpp
+  Dx11Demo_45.cpp
+  GraphicsClass.cpp
+  InputClass.cpp
+  LightClass.cpp
+  LightShaderClass.cpp
+  ModelClass.cpp
+  ShaderManagerClass.cpp
+  SystemClass.cpp
+  TextureClass.cpp
+  TextureShaderClass.cpp
+  코드를 생성하고 있습니다...
+  Dx11Demo_45.vcxproj -> C:\Users\Bum\Desktop\Dx11Demo_45\Debug\Dx11Demo_45.exe
